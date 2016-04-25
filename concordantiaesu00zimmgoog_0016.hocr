@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./concordantiaesu00zimmgoog_0016.png"; bbox 0 0 3526 5562; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 609 2175 1046 2394">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 609 2175 1046 2394">
+     <span class='ocr_line' id='line_1_1' title="bbox 609 2175 1046 2394; baseline 0.005 -48"><span class='ocrx_word' id='word_1_1' title='bbox 609 2175 806 2350; x_wconf 81' lang='lat' dir='ltr'><strong>Prior</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 873 2219 1046 2394; x_wconf 76' lang='lat' dir='ltr'><strong>pars</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 93 2476 1745 2774">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 93 2476 1745 2774">
+     <span class='ocr_line' id='line_1_2' title="bbox 93 2476 1557 2591; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 93 2511 261 2591; x_wconf 73' lang='lat' dir='ltr'>omnes</span> <span class='ocrx_word' id='word_1_4' title='bbox 276 2478 402 2591; x_wconf 84' lang='lat' dir='ltr'>Novi</span> <span class='ocrx_word' id='word_1_5' title='bbox 420 2480 719 2590; x_wconf 71' lang='lat' dir='ltr'><strong>Testamenti</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 742 2510 880 2591; x_wconf 60' lang='lat' dir='ltr'><strong>voosss</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 900 2477 1169 2590; x_wconf 73' lang='lat' dir='ltr'>seeundum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1186 2476 1557 2587; x_wconf 60' lang='lat' dir='ltr'><strong>taminationes</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 372 2621 1745 2774; baseline -0.004 -24"><span class='ocrx_word' id='word_1_9' title='bbox 372 2638 611 2751; x_wconf 75' lang='lat' dir='ltr'>classibus</span> <span class='ocrx_word' id='word_1_10' title='bbox 630 2637 923 2750; x_wconf 79' lang='lat' dir='ltr'><strong>distributas</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 942 2637 1277 2774; x_wconf 63' lang='lat' dir='ltr'>compleamus.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1744 2621 1745 2716; x_wconf 58' lang='grc' dir='ltr'><strong><em>ἴ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1768 5562">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1768 5562">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1768 5562; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1768 5562; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
